@@ -1,0 +1,6 @@
+framework module Pods_lunch_train2 {
+  umbrella header "Pods-lunch-train2-umbrella.h"
+
+  export *
+  module * { export * }
+}
